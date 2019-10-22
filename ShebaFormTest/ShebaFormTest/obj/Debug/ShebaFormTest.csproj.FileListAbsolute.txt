@@ -1,0 +1,15 @@
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\ShebaFormTest.exe.config
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\ShebaFormTest.exe
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\ShebaFormTest.pdb
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.csprojAssemblyReference.cache
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.Form1.resources
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.Properties.Resources.resources
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.csproj.GenerateResource.cache
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.csproj.CoreCompileInputs.cache
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.exe
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.pdb
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\EntityFramework.dll
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\EntityFramework.xml
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\PracticalProject\ShebaFormTest\ShebaFormTest\obj\Debug\ShebaFormTest.csproj.CopyComplete
